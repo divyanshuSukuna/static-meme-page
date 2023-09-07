@@ -1,0 +1,22 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+img{
+    width: 100%;
+    border: 10px solid white;
+}
+
+.content {
+    width: 50%;
+    margin-left: 25%;
+    text-align: center;
+}
+h1{
+    text-transform: uppercase;
+    font-weight: 800;
+}
+p{
+    font-size: larger;
+}
